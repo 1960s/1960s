@@ -1,8 +1,6 @@
 ### 1960s
 Interests: Rhythmic and Tonal Structures
 
-Projects: Text Editor, Snippet Manager, Music Composition
-
 <!--
 **1960s/1960s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
