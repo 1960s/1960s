@@ -1,5 +1,6 @@
 ### 1960s
 Interests: Rhythmic and Tonal Structures
+
 Projects: Text Editor, Snippet Manager, Music Composition
 
 <!--
